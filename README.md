@@ -1,2 +1,2 @@
 # ShowProgram
-JavaScript Screen to Chromakey the Show itinerary on Stage Moniors
+JavaScript Screen to Chroma Key the Show Itinerary on Stage Monitors.
